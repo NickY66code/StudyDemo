@@ -1,5 +1,5 @@
 import org.junit.Test;
-import recursion.recursionDemo;
+import Demo.recursion.recursionDemo;
 
 public class recursionTest {
 
